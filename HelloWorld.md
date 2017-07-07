@@ -1,7 +1,9 @@
 ## This is a markdown file
 ### Este es mi primer subtítulo
 
-Aquí escribo algo
+Aquí escribo algo 
+1. Algo
+
 
 #### Y el segundo
 
